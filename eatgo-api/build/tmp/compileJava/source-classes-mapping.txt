@@ -1,0 +1,4 @@
+kr/co/fastcampus/eatgo/EatgoApplication.java
+ kr.co.fastcampus.eatgo.EatgoApplication
+kr/co/fastcampus/eatgo/interfaces/WelcomeController.java
+ kr.co.fastcampus.eatgo.interfaces.WelcomeController

@@ -1,0 +1,2 @@
+kr/co/fastcampus/eatgo/EatgoApplicationTests.java
+ kr.co.fastcampus.eatgo.EatgoApplicationTests
